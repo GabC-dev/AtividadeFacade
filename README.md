@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atividade – Design Pattern **Facade**  
 
 ---
@@ -189,3 +190,6 @@ public class Main {
 * Livro *Head First Design Patterns* – Cap. Facade.  
 * Oracle Java Tutorials – *Interfaces* e *Packages*.  
 * Exemplos de código no repositório oficial da disciplina.  
+=======
+# AtividadeFacade
+>>>>>>> e34c6b0708f5f97f69845646cc35a89eacd0ddc6
